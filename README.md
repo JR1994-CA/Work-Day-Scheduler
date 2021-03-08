@@ -21,5 +21,8 @@ When you click on the text blocks, you can enter your task and if you look into 
 
 # Deployed Application Link
 
+https://jr1994-ca.github.io/Work-Day-Scheduler/Develop/index.html
+
+
 
 
